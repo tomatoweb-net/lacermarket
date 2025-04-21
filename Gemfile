@@ -13,7 +13,7 @@ gem "solid_queue"
 gem "solid_cable"
 gem "bootsnap", require: false
 gem "kamal", require: false
-gem "bootstrap", "~> 5.3.0"
+gem "bootstrap", "~> 5.3.5"
 gem 'dartsass-sprockets'
 
 gem "thruster", require: false
